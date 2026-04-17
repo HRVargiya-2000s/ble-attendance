@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LAS Attendance</string>
+    <string name="title_activity_main">LAS Attendance</string>
+    <string name="package_name">com.las.attendance</string>
+    <string name="custom_url_scheme">com.las.attendance</string>
+</resources>
